@@ -1,6 +1,7 @@
-# incredibox-mechanic-coldbox
-Not my mod
+# Coldbox: an Incredibox mod
+Credits to Coldseamer ig
+
  
- 
-Play the mod:https://incredibox-mechanic-coldbox.netlify.app/
-The offical website: https://sites.google.com/view/coldseamer-coldbox/ 
+Coldseamer website: https://sites.google.com/view/coldbox/home 
+
+bye
