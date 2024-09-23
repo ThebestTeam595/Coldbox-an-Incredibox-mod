@@ -1,9 +1,9 @@
-# Coldbox: an Incredibox mod
+# Coldbox - an Incredibox mod
 Credits to Coldseamer ig
 
  
-Coldseamer website: https://sites.google.com/view/coldbox/home 
+Coldbox Website: https://sites.google.com/view/coldbox/home 
 
 
 
-bye
+k byeee🤑🤑🤑
